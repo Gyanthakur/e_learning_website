@@ -72,9 +72,11 @@ Remember, open source thrives on collaboration and learning. Embrace the process
 
 # also wathch 
 
-https://github.com/Gyanthakur/music_player
-https://github.com/Gyanthakur/snakegame.github.io
-https://github.com/Gyanthakur/portfolio-gps
-https://github.com/Gyanthakur/GFG_POTD
-https://github.com/Gyanthakur/TextUtils
-https://github.com/Gyanthakur/Dev_Profiles
+
+
+- [https://github.com/Gyanthakur/music_player](https://github.com/Gyanthakur/music_player)
+- [https://github.com/Gyanthakur/snakegame.github.io](https://github.com/Gyanthakur/snakegame.github.io)
+- [https://github.com/Gyanthakur/portfolio-gps](https://github.com/Gyanthakur/portfolio-gps)
+- [https://github.com/Gyanthakur/GFG_POTD](https://github.com/Gyanthakur/GFG_POTD)
+- [https://github.com/Gyanthakur/TextUtils](https://github.com/Gyanthakur/TextUtils)
+- [https://github.com/Gyanthakur/Dev_Profiles](https://github.com/Gyanthakur/Dev_Profiles)
