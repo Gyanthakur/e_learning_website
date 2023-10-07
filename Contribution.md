@@ -3,14 +3,15 @@
 
 
  1. give star on the repo
- 2. create own issue
- 3. fork the repo
- 4. clone forked repo on your local system
- 5. do change
- 6. do valid commit
- 7. push the changes
- 8. create Pull Request
- 9. wait for merge
+ 2. 
+ 3. create own issue
+ 4. fork the repo
+ 5. clone forked repo on your local system
+ 6. do change
+ 7. do valid commit
+ 8. push the changes
+ 9. create Pull Request
+ 10. wait for merge
 
 
 # Hacktoberfest Contribution Guide for Students
