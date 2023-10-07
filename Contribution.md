@@ -3,7 +3,7 @@
 
 
  1. give star on the repo
- 2. 
+ 2. follow https://github.com/Gyanthakur account
  3. create own issue
  4. fork the repo
  5. clone forked repo on your local system
