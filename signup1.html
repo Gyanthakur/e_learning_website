@@ -6,10 +6,56 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Signup</title>
     <link rel="stylesheet" href="style1.css">
+    <style>
+    .container1{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+    }
+    .container{
+        height: 80vh;
+        width: 100vw;
+        display:  flex;
+        justify-content: center;
+        align-items: center;
+    }
+    body{
+        background-color:rgb(207, 201, 201);
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .form-group{
+        display: flex;
+        flex: 1;
+        flex-direction: column;
+        gap: 20px;
+        width: 200px;
+        font-size:20px ;
+    }
+    fieldset{
+        border: 2px solid black;
+         box-shadow: 2px 3px 5px rgba(0,0,0,0.4);
+         background-color:rgb(237, 232, 232); 
+         border-radius: 20px; 
+         height: 700px; 
+         width: 500px;
+    }
+    .btn-btn-btn{
+        box-shadow: 2px 3px 5px rgba(0,0,0,0.4);
+        border-radius: 10px;
+        padding:10px 20px;
+    }
+    .btn-btn-btn:hover{
+        transform: scale(.95);
+        background-color: rgb(101, 100, 99);
+        transition-duration: 300ms;
+    }
+</style>
 </head>
 
 <body>
-    <header>
+    <header style="background-color: #1F2937" >
         <h1>Signup for E-Learn</h1>
     </header>
     <!-- <nav>
@@ -19,29 +65,35 @@
             <li><a href="signup1.html">Signup</a></li>
         </ul>
     </nav> -->
-    <main class="main">
-        <form id="signupForm">
+    <div class="container">
+        <fieldset>
+            <legend> <h1>SIGNUP</h1></legend>
+            <form id="signupForm">
+            <div class="container1">
             <div class="form-group">
-                <!-- <label for="username">Username</label> -->
+                <label for="username">Username</label>
                 <input type="text" id="username" placeholder="Enter userName" required>
             </div>
             <div class="form-group">
-                <!-- <label for="email">Email</label> -->
+                <label for="email">Email</label>
                 <input type="email" id="email" placeholder="Enter Email" required>
             </div>
             <div class="form-group">
-                <!-- <label for="email">Email</label> -->
+                <label for="email">Email</label> 
                 <input type="text" id="phone" placeholder="Enter Phone No." required>
             </div>
             <div class="form-group">
-                <!-- <label for="password">Password</label> -->
+                <label for="password">Password</label>
                 <input type="password" id="password" placeholder="Enter Password" required>
             </div>
-            <button type="submit">SignUp</button>
+            <button class="btn-btn-btn" type="submit">SignUp</button>
+        </div>
         </form>
         <p>Already have an account? <a href="login1.html">Login Now</a></p>
         <p>After signup please Login</p>
-    </main>
+    </fieldset>
+    </div>
+
     <footer class="footer">
 
         &copy; copyright @ 2023 by <span>mr. Gyan Pratap Sing (GPS)</span> | all rights reserved!
