@@ -1,8 +1,8 @@
 const isLoggedIn = sessionStorage.getItem("isLoggedIn");
 
-// if (!isLoggedIn && window.location.pathname !== "/login1.html" && window.location.pathname !== "/signup1.html") {
-//     window.location.href = "login1.html";
-// }
+if (!isLoggedIn && window.location.pathname !== "/login1.html" && window.location.pathname !== "/signup1.html") {
+    window.location.href = "login1.html";
+}
 
 //password validation for sign up
 
