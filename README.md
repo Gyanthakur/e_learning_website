@@ -2,7 +2,7 @@
 
    # 🌐 e_learning_website
 
-## Welcome to Hacktoberfest Student's Guide!
+## Welcome to the Hacktoberfest Student's Guide!
 
  ![](https://api.visitorbadge.io/api/VisitorHit?user=Gyanthakur&repo=e_learning_website&countColor=#7370fd)
 
@@ -113,7 +113,7 @@ Remember, open source thrives on collaboration and learning. Embrace the process
 
 ## 📄 License
 
-This repository is available under the [`MIT License`](./LICENSE).
+This repository is available under the [`MIT License`](./LICENSE.md).
 
 
 <a name="author"></a>
