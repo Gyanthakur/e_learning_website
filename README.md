@@ -92,11 +92,11 @@ Here's a comprehensive guide to help you navigate your way through this exciting
 ### 10. **Celebrate Your Achievement:**
    - **Success Celebration:**
      Once your PR is merged, celebrate your successful contribution to the open-source community! You've made a meaningful impact.
-
-Remember, open source thrives on collaboration and learning. Embrace the process, enjoy your coding journey, and happy hacking! 🚀
+     
 
 **Note:** Always refer to the specific project's guidelines and code of conduct for any additional instructions or requirements regarding contributions.
 
+### Remember, open source thrives on collaboration and learning! 😄 <br>
 
    <a name="wl"></a>
 
@@ -135,6 +135,6 @@ Your suggestions are very welcome, kindly post them [`here`](https://github.com/
   <img src="https://contrib.rocks/image?repo=Gyanthakur/e_learning_website" />
 </a>
 
-<br>
-Make sure to ⭐ this repository if you found it helpful!
-Happy coding 👨‍💻
+Make sure to ⭐ this repository if you found it helpful! <br>
+Embrace the process, enjoy your coding journey, and happy hacking! 🚀
+
