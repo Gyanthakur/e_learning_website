@@ -1,10 +1,39 @@
-# e_learning_website
+<div align="center">
 
-# Welcome to Hacktoberfest Student's Guide
+   # 🌐 e_learning_website
 
-Welcome to Hacktoberfest, a fantastic opportunity for students to engage with the open-source community and contribute meaningfully to various projects. Here's a comprehensive guide to help you navigate your way through this exciting journey.
+## Welcome to Hacktoberfest Student's Guide!
 
-## How to Contribute:
+ ![](https://api.visitorbadge.io/api/VisitorHit?user=Gyanthakur&repo=e_learning_website&countColor=#7370fd)
+
+Glad to have your participation in Hacktoberfest, it's a fantastic opportunity for students to engage with the open-source community and contribute meaningfully to various projects. 
+Let's begin this journey together!
+
+</div>
+
+
+## 📃 Table of Contents 
+1. [Introduction](#intro)
+2. [How to Contribute](#how)
+3. [Watchlist](#wl)
+4. [License](#license)
+5. [Author](#author)
+6. [Feedback](#feedback)
+7. [Contributors](#contributors)
+
+
+<a name="intro"></a>
+
+## 🎙 Introduction
+Guidance makes things easier, doesn't it?
+<br>
+We wish to clear all your doubts about contributing in open-source.<br>
+Here's a comprehensive guide to help you navigate your way through this exciting journey!
+
+
+   <a name="how"></a>
+
+## 💭 How to Contribute
 
 ### 1. **Get Started:**
    - **Star the Repository:**
@@ -69,10 +98,9 @@ Remember, open source thrives on collaboration and learning. Embrace the process
 **Note:** Always refer to the specific project's guidelines and code of conduct for any additional instructions or requirements regarding contributions.
 
 
+   <a name="wl"></a>
 
-# also wathch 
-
-
+## 📼 Watchlist 
 
 - [https://github.com/Gyanthakur/music_player](https://github.com/Gyanthakur/music_player)
 - [https://github.com/Gyanthakur/snakegame.github.io](https://github.com/Gyanthakur/snakegame.github.io)
@@ -80,3 +108,33 @@ Remember, open source thrives on collaboration and learning. Embrace the process
 - [https://github.com/Gyanthakur/GFG_POTD](https://github.com/Gyanthakur/GFG_POTD)
 - [https://github.com/Gyanthakur/TextUtils](https://github.com/Gyanthakur/TextUtils)
 - [https://github.com/Gyanthakur/Dev_Profiles](https://github.com/Gyanthakur/Dev_Profiles)
+
+<a name="license"></a>
+
+## 📄 License
+
+This repository is available under the [`MIT License`](./LICENSE).
+
+
+<a name="author"></a>
+
+## 💻 Author
+[Gyan Pratap Singh](https://github.com/Gyanthakur)
+
+
+<a name="feedback"></a>
+
+## 🖊 Feedback
+Your suggestions are very welcome, kindly post them [`here`](https://github.com/Gyanthakur/e_learning_website/issues) and contribute into the project.
+
+
+<a name="contributors"></a>
+
+## 👥 Contributors
+<a href="https://github.com/Gyanthakur/e_learning_website/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Gyanthakur/e_learning_website" />
+</a>
+
+<br>
+Make sure to ⭐ this repository if you found it helpful!
+Happy coding 👨‍💻
