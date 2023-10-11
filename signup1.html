@@ -1,16 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Signup</title>
-    <link rel="stylesheet" href="style1.css">
-</head>
+    <link rel="stylesheet" href="style1.css" />
+  </head>
 
-<body>
+  <body>
     <header>
-        <h1>Signup for E-Learn</h1>
+      <h1>Signup for E-Learn</h1>
     </header>
     <!-- <nav>
         <ul>
@@ -20,38 +19,52 @@
         </ul>
     </nav> -->
     <main class="main">
-        <form id="signupForm" >
-            <div class="form-group">
-                <!-- <label for="username">Username</label> -->
-                <input type="text" id="username" placeholder="Enter userName" required>
-            </div>
-            <div class="form-group">
-                <!-- <label for="email">Email</label> -->
-                <input type="email" id="email" placeholder="Enter Email" required>
-            </div>
-            <div class="form-group">
-                <!-- <label for="email">Email</label> -->
-                <input type="text" id="phone" placeholder="Enter Phone No." 
-                 pattern="[+]\d{1,3}\s?\d{8,14}" title="Please enter a  country code + 10-digit phone number " required>
-            </div>
-            <div class="form-group">
-                <!-- <label for="password">Password</label> -->
-                <input type="password" id="password" placeholder="Enter Password" pattern="^(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}$"
-                title="Password must contain at least 8 characters, including one uppercase letter, one lowercase letter, and one digit."
-                required>
-            </div>
-            <button type="submit" >SignUp</button>
-        </form>
-        <p>Already have an account? <a href="login1.html">Login Now</a></p>
-        <p>After signup please Login</p>
+      <form id="signupForm">
+        <div class="form-group">
+          <!-- <label for="username">Username</label> -->
+          <input
+            type="text"
+            id="username"
+            placeholder="Enter userName"
+            required
+          />
+        </div>
+        <div class="form-group">
+          <!-- <label for="email">Email</label> -->
+          <input type="email" id="email" placeholder="Enter Email" required />
+        </div>
+        <div class="form-group">
+          <!-- <label for="email">Email</label> -->
+          <input
+            type="text"
+            id="phone"
+            placeholder="Enter Phone No."
+            pattern="[+]\d{1,3}\s?\d{8,14}"
+            title="Please enter a  country code + 10-digit phone number "
+            required
+          />
+        </div>
+        <div class="form-group">
+          <!-- <label for="password">Password</label> -->
+          <input
+            type="password"
+            id="password"
+            placeholder="Enter Password"
+            pattern="^(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}$"
+            title="Password must contain at least 8 characters, including one uppercase letter, one lowercase letter, and one digit."
+            required
+          />
+        </div>
+        <button type="submit">SignUp</button>
+      </form>
+      <p>Already have an account? <a href="login1.html">Login Now</a></p>
+      <p>After signup please Login</p>
     </main>
     <footer class="footer">
-
-        &copy; copyright @ 2023 by <span>mr. Gyan Pratap Sing (GPS)</span> | all rights reserved!
-     
-     </footer>
+      &copy; copyright @ 2023 by <span>mr. Gyan Pratap Sing (GPS)</span> | all
+      rights reserved!
+    </footer>
     <script src="script1.js"></script>
     <!-- <script src="script1.js"></script> -->
-</body>
-
+  </body>
 </html>
