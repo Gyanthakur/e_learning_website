@@ -48,15 +48,17 @@ nav a {
 
 .main {
   flex-grow: 1;
-  max-width: 700px;
+  max-width: 450px;
   margin: 20px auto;
-  padding: 20px;
+  padding: 40px;
+  padding-top: 50px;
   background-color: var(--white);
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  border-radius:10px;
 }
 
 #loginForm {
@@ -83,7 +85,7 @@ label {
 }
 
 input {
-  width: 50%;
+  width: 60%;
   padding: 10px;
   height: 2rem;
   border: 2px solid #ccc;
@@ -106,8 +108,8 @@ input {
 
 button {
   cursor: pointer;
-  width: 52%;
-  padding: 15px;
+  width: 65.5%;
+  padding: 17px;
   border: none;
   border-radius: 5px;
   background-color: var(--main-color);
@@ -142,6 +144,8 @@ a {
   align-items: center;
   justify-content: center;
   font-weight: bold;
+  background-color: #f0f0f0;
+  padding: 10px;
 }
 
 @media (max-width: 1200px) {
